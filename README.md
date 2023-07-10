@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benajin
-- 📫 How to reach me ... Twitter @RealBenajin or Email RealBenajin@gmail.com
+- 📫 How to reach me ... discord: benajin
 
 <!---
 Benajin/Benajin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
